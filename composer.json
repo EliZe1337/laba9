@@ -1,0 +1,14 @@
+{
+    "name": "vboxuser/laba9",
+    "autoload": {
+        "psr-4": {
+            "vboxuser\\laba9\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "h"
+        }
+    ],
+    "require": {}
+}
